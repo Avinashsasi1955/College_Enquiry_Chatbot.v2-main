@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.chat-box {
+    height: 65vh;
+    overflow-y: auto;
+    background-color: #f7f9fc;
+    border-radius: 10px;
+}
+
+.chat-box div {
+    margin-bottom: 10px;
+}
+
+.chat-box b {
+    color: #0d6efd;
+}
+
+.sidebar {
+    height: 80vh;
+    overflow-y: auto;
+}
